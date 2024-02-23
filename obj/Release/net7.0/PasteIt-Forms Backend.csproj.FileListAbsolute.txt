@@ -1,0 +1,32 @@
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\appsettings.Development.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\appsettings.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\PasteIt-Forms Backend.exe
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\PasteIt-Forms Backend.deps.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\PasteIt-Forms Backend.runtimeconfig.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\PasteIt-Forms Backend.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\PasteIt-Forms Backend.pdb
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\Microsoft.OpenApi.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.csproj.AssemblyReference.cache
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.AssemblyInfoInputs.cache
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.AssemblyInfo.cs
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.csproj.CoreCompileInputs.cache
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\staticwebassets\msbuild.PasteIt-Forms Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\staticwebassets\msbuild.build.PasteIt-Forms Backend.props
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.PasteIt-Forms Backend.props
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.PasteIt-Forms Backend.props
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\staticwebassets.pack.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\staticwebassets.build.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\staticwebassets.development.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\scopedcss\bundle\PasteIt-Forms Backend.styles.css
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.csproj.CopyComplete
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\refint\PasteIt-Forms Backend.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.pdb
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PasteIt-Forms Backend.genruntimeconfig.cache
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\ref\PasteIt-Forms Backend.dll

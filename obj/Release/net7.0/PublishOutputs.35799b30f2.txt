@@ -1,0 +1,11 @@
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\PasteIt-Forms Backend.exe
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\PasteIt-Forms Backend.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\PasteIt-Forms Backend.deps.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\PasteIt-Forms Backend.runtimeconfig.json
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\PasteIt-Forms Backend.pdb
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Arun\PasteIt Application\PasteIt-Forms Backend\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
